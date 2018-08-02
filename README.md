@@ -1,1 +1,1 @@
-# Capstone-Project
+Our project on “Hotel Deal Finders Based on Reviews” provides user with best reviewed hotels by previous customers in that hotels. In our project user will have credentials like username and password so that he can login to website and can search for the hotels with respect to their location or their desired location. It gives the detail information of hotels located in particular city and top reviewed hotels will be displayed first and also their prices.So that customer will not face any difficulty in search of hotels.
